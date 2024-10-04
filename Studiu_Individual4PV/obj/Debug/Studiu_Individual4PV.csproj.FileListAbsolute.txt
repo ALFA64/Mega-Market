@@ -1,0 +1,13 @@
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\bin\Debug\Studiu_Individual4PV.exe
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\bin\Debug\Studiu_Individual4PV.pdb
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.csproj.AssemblyReference.cache
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.Form1.resources
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.Form2.resources
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.Properties.Resources.resources
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.csproj.GenerateResource.cache
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.csproj.CoreCompileInputs.cache
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.exe
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.pdb
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\bin\Debug\Studiu_Individual4PV.exe.config
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.Form3.resources
+D:\Programarea vizuala\Studiu_Tehnici\Studiu_Individual4PV\Studiu_Individual4PV\obj\Debug\Studiu_Individual4PV.Form4.resources
